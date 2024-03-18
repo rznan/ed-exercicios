@@ -3,13 +3,18 @@ package vetores.ordenacao;
 public class QuickSort {
     public QuickSort(){}
 
-    public int[] sort(int[] arr, int start, int end){
+    public void sort(int[] arr, int start, int end){
         if( start < end ) {
             int pivot = divide(arr, start, end);
-            sort(arr, start, pivot-1);
-            sort(arr, pivot+1, end);
+            if(pivot - start <= end - (pivot+1)) {
+                sort(arr, start, pivot - 1);
+                start = pivot + 1;
+            }
+            else {
+                sort(arr, pivot + 1, end);
+                end = pivot;
+            }
         }
-        return arr;
     }
 
     private int divide(int[] arr, int start, int end) {
