@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ED_Exercicios.iml" filepath="$PROJECT_DIR$/.idea/ED_Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/L1Ex01/L1Ex01.iml" filepath="$PROJECT_DIR$/Lista1/L1Ex01/L1Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/L1Ex02/L1Ex02.iml" filepath="$PROJECT_DIR$/Lista1/L1Ex02/L1Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/L1Ex03/L1Ex03.iml" filepath="$PROJECT_DIR$/Lista1/L1Ex03/L1Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/L1Ex04/L1Ex04.iml" filepath="$PROJECT_DIR$/Lista1/L1Ex04/L1Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/L1Ex05/L1Ex05.iml" filepath="$PROJECT_DIR$/Lista1/L1Ex05/L1Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/L2Ex01/L2Ex01.iml" filepath="$PROJECT_DIR$/Lista2/L2Ex01/L2Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/L2Ex02/L2Ex02.iml" filepath="$PROJECT_DIR$/Lista2/L2Ex02/L2Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/L2Ex03/L2Ex03.iml" filepath="$PROJECT_DIR$/Lista2/L2Ex03/L2Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/L2Ex04/L2Ex04.iml" filepath="$PROJECT_DIR$/Lista2/L2Ex04/L2Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/L2Ex05/L2Ex05.iml" filepath="$PROJECT_DIR$/Lista2/L2Ex05/L2Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex01/L3Ex01.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex01/L3Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex02/L3Ex02.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex02/L3Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex03/L3Ex03.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex03/L3Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex04/L3Ex04.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex04/L3Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex05/L3Ex05.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex05/L3Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/L3Ex06/L3Ex06.iml" filepath="$PROJECT_DIR$/Lista3/L3Ex06/L3Ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista4/L4Ex03/L4Ex03.iml" filepath="$PROJECT_DIR$/Lista4/L4Ex03/L4Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista4/L4Ex04/L4Ex04.iml" filepath="$PROJECT_DIR$/Lista4/L4Ex04/L4Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista5/L5Ex04/L5Ex04.iml" filepath="$PROJECT_DIR$/Lista5/L5Ex04/L5Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista5/L5Ex05/L5Ex05.iml" filepath="$PROJECT_DIR$/Lista5/L5Ex05/L5Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista5/L5Ex06/L5Ex06.iml" filepath="$PROJECT_DIR$/Lista5/L5Ex06/L5Ex06.iml" />
+    </modules>
+  </component>
+</project>

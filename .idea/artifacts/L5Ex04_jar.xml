@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="L5Ex04:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/L5Ex04_jar</output-path>
+    <root id="archive" name="L5Ex04.jar">
+      <element id="module-output" name="L5Ex04" />
+    </root>
+  </artifact>
+</component>
