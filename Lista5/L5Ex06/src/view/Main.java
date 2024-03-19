@@ -30,7 +30,7 @@ public class Main {
         aux = arr.clone();
 
         start = System.nanoTime();
-        quickSort.sort(aux, 0, arr.length-1);
+        quickSort.sort(aux, 0, aux.length-1);
         end = System.nanoTime();
         System.out.println("\nDuração: " + (double) (end - start) / 1000000 + "ms");
 
