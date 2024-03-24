@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PilhaInt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PilhaInt_jar</output-path>
+    <root id="archive" name="PilhaInt.jar">
+      <element id="module-output" name="PilhaInt" />
+    </root>
+  </artifact>
+</component>
