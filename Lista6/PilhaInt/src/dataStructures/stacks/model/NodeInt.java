@@ -21,4 +21,12 @@ public class NodeInt {
     public void setNext(NodeInt next) {
         this.next = next;
     }
+
+    @Override
+    public String toString() {
+        return "NodeInt{" +
+                "data=" + data +
+                ", next=" + next +
+                '}';
+    }
 }
