@@ -16,6 +16,7 @@ public class FatController {
     }
 
     private void multiplyTop(StackInt s) {
+        // multiplica os dois valores do topo da pilha e coloca o resultado no topo
         int aux;
         try{
             aux = s.pop();
