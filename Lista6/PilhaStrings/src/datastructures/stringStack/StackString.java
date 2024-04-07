@@ -1,4 +1,6 @@
-import model.NodeString;
+package datastructures.stringStack;
+
+import datastructures.stringStack.model.NodeString;
 
 public class StackString {
     private NodeString top;

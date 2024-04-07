@@ -1,4 +1,4 @@
-package model;
+package datastructures.stringStack.model;
 
 public class NodeString {
     private String data;
