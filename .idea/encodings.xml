@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Lista1/README.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex01/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex01/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex02/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex02/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex03/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex04/src/view/Main.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Lista2/L2Ex05/src/view/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Lista01/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lista02/L2Ex01/src/view/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Lista02/L2Ex02/src/view/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Lista02/L2Ex03/src/view/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Lista02/L2Ex04/src/view/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Lista02/L2Ex05/src/view/Main.java" charset="windows-1252" />
   </component>
 </project>
