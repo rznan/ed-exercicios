@@ -12,7 +12,7 @@ public class List<T> implements IList<T> {
         if(isEmpty()) {
             head = new Node<>(data);
         } else {
-            head = new Node<>(data, head.getNext());
+            head = new Node<>(data, head);
         }
     }
 
@@ -95,7 +95,7 @@ public class List<T> implements IList<T> {
         }
 
         Node<T> response = head;
-        for(int i = 1; i < index; i++) {
+        for(int i = 0; i < index; i++) {
             response = response.getNext();
         }
 
