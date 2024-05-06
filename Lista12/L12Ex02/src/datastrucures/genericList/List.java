@@ -37,7 +37,9 @@ public class List<T> implements IList<T> {
         } else {
             Node<T> previous = getNode(index-1);
             Node<T> current = previous.getNext();
-            previous.setNext(new Node<>(data, current.getNext()));
+            Node<T> newNode = new Node<>(data);
+            newNode.setNext(current);
+            previous.setNext(newNode);
         }
     }
 
