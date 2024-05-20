@@ -10,7 +10,7 @@ public class ResidentHashTable {
 
     public ResidentHashTable() {
         DICT = new List[SIZE];
-        for(int i=0; i<SIZE; i++) {
+        for (int i = 0; i < SIZE; i++) {
             DICT[i] = new List<Resident>();
         }
     }
@@ -20,10 +20,10 @@ public class ResidentHashTable {
         List<Resident> bucket = DICT[bucketPosition];
         int bucketSize = bucket.size();
 
-        for(int i=0; i<bucketSize; i++) {
+        for (int i = 0; i < bucketSize; i++) {
             Resident element = bucket.get(i);
-            if(element.getApartmentNumber() == resident.getApartmentNumber()) {
-                if(!element.equals(resident)) {
+            if (element.getApartmentNumber() == resident.getApartmentNumber()) {
+                if (!element.equals(resident)) {
                     bucket.remove(i);
                 }
             }
@@ -38,9 +38,9 @@ public class ResidentHashTable {
 
         Resident target = null;
 
-        for(int i=0; i<bucketSize; i++) {
+        for (int i = 0; i < bucketSize; i++) {
             Resident element = bucket.get(i);
-            if(element.getApartmentNumber() == apartmentNumber) {
+            if (element.getApartmentNumber() == apartmentNumber) {
                 target = element;
                 break;
             }
@@ -55,9 +55,9 @@ public class ResidentHashTable {
         List<Resident> bucket = DICT[bucketPosition];
         int bucketSize = bucket.size();
 
-        for(int i=0; i<bucketSize; i++) {
+        for (int i = 0; i < bucketSize; i++) {
             Resident element = bucket.get(i);
-            if(element.getApartmentNumber() == apartmentNumber) {
+            if (element.getApartmentNumber() == apartmentNumber) {
                 bucket.remove(i);
                 break;
             }
@@ -65,14 +65,15 @@ public class ResidentHashTable {
     }
 
     public void listFloorResidents(int floorNumber) throws Exception {
-        if(floorNumber < SIZE && floorNumber > 0) {
-            List<Resident> bucket = DICT[floorNumber-1];
+        if (floorNumber < SIZE && floorNumber > 0) {
+            List<Resident> bucket = DICT[floorNumber - 1];
             int bucketSize = bucket.size();
 
-            if(bucketSize == 0) {
+            if (bucketSize == 0) {
                 System.out.println("Nenhum Morador");
-            } else {
-                for(int i=0; i<bucketSize; i++) {
+            }
+            else {
+                for (int i = 0; i < bucketSize; i++) {
                     Resident element = bucket.get(i);
                     System.out.println();
                     System.out.println();
